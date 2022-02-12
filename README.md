@@ -1,2 +1,11 @@
 # Predict-Air-line-Fare-Ticket_ML
-This Project are base on Regression use case. In this project i had predict Airline Ticket fare using different models like Random Forest Regression, Decision tree regression, KNN regression and Linear Regression. 
+* Dealing with missing values
+* Split categorical and numerical columns
+* Making plot to examin the distribution of each variables.
+* Feature Engeeneering
+* Distribution of Target Variable
+* Split data into x & y
+* Apply train test split
+* Define Buisness Rule
+* Models like Random Forest Regression,KNN regression,Linear Regression,Decision Tree Regression.
+* Comparing models.
